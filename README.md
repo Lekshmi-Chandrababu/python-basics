@@ -10,3 +10,7 @@ This repository contains simple Python programs created as part of my learning j
 
 ## Purpose
 To build strong programming fundamentals using Python.
+
+## 🛠️ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
